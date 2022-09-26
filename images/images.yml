@@ -2,7 +2,7 @@
 # If an individual image's image.yml file also contains a value for property set in this file, the value in the
 # that image's image.yml file will overwrite the value in this file
 
-# version: 0.1
+# version: 0.2
 
 #  Optional properties:
 #
