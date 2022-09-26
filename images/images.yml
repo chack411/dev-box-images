@@ -34,8 +34,8 @@ builder: packer
 publisher: Contoso
 offer: DevBox
 replicaLocations:
-  - eastus
-  - westeurope
+  - japaneast
+  - japanwest
 buildResourceGroup: Contoso-Images
 keyVault: contosoimageskv
 virtualNetwork: contoso-images-vnet
